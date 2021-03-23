@@ -68,6 +68,8 @@ class GitApi extends Component {
               <Col span={8}><Card title="Project Description" bordered={false}>{this.props.description}</Card>
               </Col>
               </Row>
+
+              
           </div>
          </div>
         )
